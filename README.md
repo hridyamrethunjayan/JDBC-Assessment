@@ -35,6 +35,7 @@ Before running this project, install:
 
 
 git clone https://github.com/hridyamrethunjayan/JDBC-Assessment.git
+
 cd JDBC-Assessment
 
 
@@ -80,15 +81,13 @@ DB_USER=your_mysql_username
 DB_PASSWORD=your_mysql_password
 
 
-Replace the example values with your own MySQL credentials. Do not commit your actual password to GitHub.
-
-If the source file is not recognized automatically after cloning, mark the `src` directory as **Sources Root** in IntelliJ IDEA.
+Replace the example values with your own MySQL credentials. 
 
 5. Run the Program
 
 Run `InsertStudent.java` from IntelliJ IDEA.
 
-Follow the console prompts to enter the student records. Ensure the number of records entered matches the program's prompts.
+Follow the console prompts to enter the student records.
 
 6. Verify the Inserted Records
 
